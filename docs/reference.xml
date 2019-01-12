@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<?xml-stylesheet type="text/xsl" href=".\reference.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="./reference.xsl" ?>
 <ProjectGroup>
 <FileName>Project Group</FileName>
 <PathFileName>Project Group</PathFileName>
@@ -722,9 +722,9 @@
 <Project>
 <Name>VBAProject</Name>
 <FileName>Excel Utilities.xlsm</FileName>
-<PathFileName>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\Excel Utilities.xlsm</PathFileName>
+<PathFileName>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\ms-office-excel-utilities\Excel Utilities.xlsm</PathFileName>
 <BuildFileName>Excel Utilities.DLL</BuildFileName>
-<BuildPathFileName>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\Excel Utilities.DLL</BuildPathFileName>
+<BuildPathFileName>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\ms-office-excel-utilities\Excel Utilities.DLL</BuildPathFileName>
 <Description></Description>
 <HelpContextID>0</HelpContextID>
 <HelpFile>116539198</HelpFile>
@@ -878,7 +878,7 @@
 </Property>
 <Property>
 <Name>FullName</Name>
-<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\Excel Utilities.xlsm</Value>
+<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\ms-office-excel-utilities\Excel Utilities.xlsm</Value>
 </Property>
 <Property>
 <Name>HasMailer</Name>
@@ -926,7 +926,7 @@
 </Property>
 <Property>
 <Name>Path</Name>
-<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel</Value>
+<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\ms-office-excel-utilities</Value>
 </Property>
 <Property>
 <Name>PersonalViewListSettings</Name>
@@ -1054,7 +1054,7 @@
 </Property>
 <Property>
 <Name>FullNameURLEncoded</Name>
-<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\Excel Utilities.xlsm</Value>
+<Value>C:\Users\BoZ\dev\office-microsoft\Utilities Excel\ms-office-excel-utilities\Excel Utilities.xlsm</Value>
 </Property>
 <Property>
 <Name>Password</Name>
@@ -1219,7 +1219,7 @@
 </Property>
 <Property>
 <Name>Name</Name>
-<Value>Counts</Value>
+<Value>Input</Value>
 </Property>
 <Property>
 <Name>OnDoubleClick</Name>
@@ -2318,7 +2318,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : FormUtil</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine> Dependancy: Requires Microsoft Forms 2.0 Object Library</CommentLine>
 <CommentLine>   C:\Windows\SysWOW64\FM20.dll</CommentLine>
@@ -3063,7 +3063,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Class     : HeadColumn</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Descr.    : Represents a range of a whole column and a seperate range for the</CommentLine>
 <CommentLine>             column header</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -3534,7 +3534,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Class     : HeadColumnDict</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Descr.    : Extends Collection. Represents a collecion of HeadColumn objects</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Example:</CommentLine>
@@ -3668,7 +3668,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : PerformanceTimer</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -4171,7 +4171,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    :</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -4302,7 +4302,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : RegEx</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -5538,7 +5538,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GetWorkbookFromPath</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : opens and returns a workbook from the provided path and assignes it to the</CommentLine>
 <CommentLine>   provided application object</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -7452,7 +7452,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : UtilExcel</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Provides workbook Utility to extend functionality and management of</CommentLine>
 <CommentLine>   excel workbooks and worksheets</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -7823,7 +7823,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : WorksheetIO</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (E P SU EUS OM OI 3)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -9502,7 +9502,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : FileManager</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Date      : 29.08.2014</CommentLine>
 <CommentLine> LastUpdate: 29.08.2014</CommentLine>
 <CommentLine> Purpose   : Provides a number of functions and precedures to help manage</CommentLine>
@@ -9686,8 +9686,8 @@
 </Property>
 </Properties>
 <CodeModule>
-<CountOfDeclarationLines>3</CountOfDeclarationLines>
-<CountOfLines>3</CountOfLines>
+<CountOfDeclarationLines>0</CountOfDeclarationLines>
+<CountOfLines>0</CountOfLines>
 <Interfaces>
 </Interfaces>
 <Events>
@@ -9695,8 +9695,6 @@
 <Procedures>
 </Procedures>
 <CommentLines>
-<CommentLine>Private Sub Worksheet_Change(ByVal Target As Range)</CommentLine>
-<CommentLine>End Sub</CommentLine>
 </CommentLines>
 </CodeModule>
 </File>
@@ -9888,7 +9886,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : GlobalVariables</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Initialization of global variables, constants and procedures</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -10047,6 +10045,10 @@
 <Property>
 <Name>_DisplayRightToLeft</Name>
 <Value>False</Value>
+</Property>
+<Property>
+<Name>AutoFilter</Name>
+<Value></Value>
 </Property>
 <Property>
 <Name>DisplayRightToLeft</Name>
@@ -10327,7 +10329,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GenerateDiscrepancyReport</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -11084,7 +11086,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : CheckListObjectConsistency</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Checks if a list object with that name exists in the provided workbook</CommentLine>
 <CommentLine>   and if the list column names are correctly defined</CommentLine>
 <CommentLine>   Raises appropriate error if the Check does not pass</CommentLine>
@@ -11566,7 +11568,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : EventHandler</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (E P SU EUS OM OI 3)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : EVENTS &amp; EVENT HANDLING</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -13478,7 +13480,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : getStringWidthFromFontSize</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns a relative string width in Twips Per Inch</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -13565,7 +13567,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : CompareValues</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns the values 0,-1,1 according to output of the strcomp() function</CommentLine>
 <CommentLine>   Compares two elements V1 and V2</CommentLine>
 <CommentLine>   if both numeric or string with numeric,</CommentLine>
@@ -13629,7 +13631,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : modString</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Descr.    : All string, char and text manipulation methods are defined here</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine></CommentLine>
@@ -13854,7 +13856,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module      : UtilRegistry</CommentLine>
-<CommentLine> Author      : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author      : Ivanov, Bozhan</CommentLine>
 <CommentLine> Description : Windows registry management functions</CommentLine>
 <CommentLine>  Return Types for ReadRef:</CommentLine>
 <CommentLine>  REG_SZ - string</CommentLine>
@@ -14534,7 +14536,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module      : UtilModules</CommentLine>
-<CommentLine> Author      : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author      : Ivanov, Bozhan</CommentLine>
 <CommentLine> Description : Modules, Classes and Forms maangement functions</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -14799,7 +14801,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : getNewClassFilePath</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns a new class file path based on workbook location</CommentLine>
 <CommentLine>   and class name provided</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -14834,7 +14836,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : getNewStream</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Returns a new stream object based on the provided path for the new class</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -14860,7 +14862,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : writeToStream</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : writes attribute values, lines are defined as array entries</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -14894,7 +14896,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : getSettingsClassContent</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Returns an array of lines of content specific for Settings Class</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -14928,7 +14930,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GetEnumStructureForSettingRowId</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Generates Enum structure for the setting table defined in workbook</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -14999,7 +15001,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GetUtilityClassContent</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Returns an array of lines of content specific for Utility Class</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -15049,7 +15051,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GetUtilityClassesNames</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns the names of classes that match prefix and are not part of excluded</CommentLine>
 <CommentLine>   Excluded can be multiple values in CSV form</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -15558,7 +15560,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : ArrayList</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Extends the functionality of a single dimention array</CommentLine>
 <CommentLine> Note      : Since the extend is class extra array dimentions can be added by appending</CommentLine>
 <CommentLine>             an object of the ArrayList class as an element of another object of ArrayList</CommentLine>
@@ -15903,7 +15905,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : Settings</CommentLine>
-<CommentLine> Author    : Bozhan Ivanov - (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Bozhan Ivanov -</CommentLine>
 <CommentLine> Purpose   : Automatically generated class for Tool Template Excel by Bozhan Ivanov</CommentLine>
 <CommentLine> Comment   : Default error handling should be avoided here because it references the</CommentLine>
 <CommentLine>   settings class.</CommentLine>
@@ -16070,6 +16072,10 @@
 <Value>False</Value>
 </Property>
 <Property>
+<Name>AutoFilter</Name>
+<Value></Value>
+</Property>
+<Property>
 <Name>DisplayRightToLeft</Name>
 <Value>False</Value>
 </Property>
@@ -16164,7 +16170,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : UtilWord</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Provides ms word utilities to extend functionality and management and</CommentLine>
 <CommentLine>   generation of MS Word documents</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -16318,7 +16324,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module      : UtilFont</CommentLine>
-<CommentLine> Author      : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author      : Ivanov, Bozhan</CommentLine>
 <CommentLine> Description :</CommentLine>
 <CommentLine> Source      : https://en.wikibooks.org/wiki/Visual_Basic_for_Applications/Font_Utilities</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
@@ -17595,7 +17601,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Module    : OutlookUtil</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   :</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine></CommentLine>
@@ -17634,7 +17640,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : RemoveDuplicates</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns a sorted array with removed duplicates</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -17660,7 +17666,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : GetDuplicates</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns an array of (unique) dupliate values in an array</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -18259,7 +18265,7 @@
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : QSortInPlace</CommentLine>
 <CommentLine> Author    : Chip Pearson, www.cpearson.com, chip@cpearson.com</CommentLine>
-<CommentLine> Modifier  : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Modifier  : Ivanov, Bozhan</CommentLine>
 <CommentLine> Descr.    : This function sorts the array InputArray in place.</CommentLine>
 <CommentLine>   It works with either string or numeric data. A part of the array may be sorted</CommentLine>
 <CommentLine>   by setting the optional LB and UB parameters to the first (LB) and last (UB) element</CommentLine>
@@ -18331,7 +18337,7 @@
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : QSortInPlaceOnRefValues</CommentLine>
-<CommentLine> Created By: Ivanov, Bozhan  &lt;bozhan.ivanov@siemens.com&gt;</CommentLine>
+<CommentLine> Created By: Ivanov, Bozhan  &lt;&gt;</CommentLine>
 <CommentLine> Descr.    : Function based on the QSortInPlaceOnRefValues Function. In this Function the values</CommentLine>
 <CommentLine>   comapred for the sorting are referenced in a collection. Meaning that the actual array</CommentLine>
 <CommentLine>   values are used to reference a third value in the collection, which in turn is used as</CommentLine>
@@ -20057,7 +20063,7 @@
 <CommentLine>TODO Needs to be moved to a new module UtilCollection in future with other col functions</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 <CommentLine> Procedure : IsCollectionItem</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : returns true if item is part of the collection</CommentLine>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
 </CommentLines>
@@ -20273,7 +20279,7 @@
 </Procedures>
 <CommentLines>
 <CommentLine>---------------------------------------------------------------------------------------</CommentLine>
-<CommentLine> Author    : IVANO00B - Ivanov, Bozhan (email: bozhan.ivanov@siemens.com)</CommentLine>
+<CommentLine> Author    : Ivanov, Bozhan</CommentLine>
 <CommentLine> Purpose   : Provides array Utility to extend functionality</CommentLine>
 <CommentLine>   Handles only up to 2D arrays</CommentLine>
 <CommentLine>   Some of these Procedures are modified versions of the procedures in modArraySupport</CommentLine>
