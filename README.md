@@ -6,4 +6,4 @@ In addition the utility and all other helper classes are exported in their own f
 These are classes that build on top of the functionality and abstractions that come with VBA.
 
 The main interface class Utility exposes all other helper and utility classes. This is done purely out of convinience for the developer. All utility classes are initiated in the interface class constructor and thus available when the document is opened.
-This allows the develper to refer them in the debug console and in any other class just by navigating through Util.<class>.
+This allows the develper to refer them in the debug console and in any other class just by navigating through Util.<class> .
